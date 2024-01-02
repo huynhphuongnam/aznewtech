@@ -1,1 +1,2 @@
 # aznewtech
+xin chào
