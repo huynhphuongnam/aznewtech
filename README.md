@@ -64,7 +64,7 @@
 <body>
 
     <header>
-        <h1>YourTechNews</h1>
+        <h1>AZ NEW TECH</h1>
         <p>Bringing you the latest in tech news</p>
     </header>
 
